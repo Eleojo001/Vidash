@@ -197,7 +197,7 @@ function Homebanner() {
                   className='mt-2'
                   data-bs-theme='white'
                 >
-                  <Dropdown.Item href='#/action-1'>Dunamis Area1</Dropdown.Item>
+                  <Dropdown.Item href='#/action-1'>Dunamis Area3</Dropdown.Item>
                   <Dropdown.Divider />
                   <Dropdown.Item href='#/action-2'>Kuje, Abuja </Dropdown.Item>
                   <Dropdown.Divider />
