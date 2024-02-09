@@ -287,8 +287,8 @@ function Homebanner() {
           </div>
         </div>
 
-        {/* <MobileServices /> */}
-        {/* <Mobilespecial/> */}
+        <MobileServices />
+        <Mobilespecial/>
 
 
         {/* <Sider
