@@ -26,7 +26,14 @@ function Navigation() {
       <div className='desktopNavMobile'>
         <div className='navLogo-m'>
           <img src='vidashshelterLogo.png' alt='' className='logo' />
-          <AiOutlineMenu onClick={toggle} size={'1.2rem'} />
+          <div className="menuicon">
+          <AiOutlineMenu
+            onClick={toggle}
+            size={'1.5rem'}
+            color=''
+          />
+
+          </div>
         </div>
         <div className={active}>
           <li>
