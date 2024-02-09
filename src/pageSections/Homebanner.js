@@ -11,9 +11,9 @@ import Cards from './assets/Cards';
 import {data} from '../data.js'
 import { TbCurrencyNaira } from 'react-icons/tb';
 import { Types } from 'mongoose';
-// import MobileServices from './mobilepages/MobileServices.js';
-// import MobileFooter from './mobilepages/MobileFooter.js';
-// import Mobilespecial from './mobilepages/Mobilespecial.js';
+import MobileServices from './mobilepages/MobileServices.js';
+import MobileFooter from './mobilepages/MobileFooter.js';
+import Mobilespecial from './mobilepages/Mobilespecial.js';
 
 
 
