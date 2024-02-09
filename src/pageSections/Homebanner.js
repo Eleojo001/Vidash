@@ -11,9 +11,9 @@ import Cards from './assets/Cards';
 import {data} from '../data.js'
 import { TbCurrencyNaira } from 'react-icons/tb';
 import { Types } from 'mongoose';
-import MobileServices from './mobilepages/MobileServices.js';
-import MobileFooter from './mobilepages/MobileFooter.js';
-import Mobilespecial from './mobilepages/Mobilespecial.js';
+// import MobileServices from './mobilepages/MobileServices.js';
+// import MobileFooter from './mobilepages/MobileFooter.js';
+// import Mobilespecial from './mobilepages/Mobilespecial.js';
 
 
 
@@ -287,10 +287,8 @@ function Homebanner() {
           </div>
         </div>
 
-        <MobileServices />
-        {/* <Mobilejustforyou /> */}
-        {/* <Mobilejustyou/> */}
-        <Mobilespecial/>
+        {/* <MobileServices /> */}
+        {/* <Mobilespecial/> */}
 
 
         {/* <Sider
@@ -299,7 +297,7 @@ function Homebanner() {
           thirdImage='flat7.jpeg'
         /> */}
       </div>
-      <MobileFooter className='mobileFooterTag' />
+      {/* <MobileFooter className='mobileFooterTag' /> */}
 
       <div className='desktopDetails'>
         <div className='homebannerImage'>
