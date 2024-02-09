@@ -13,7 +13,8 @@ import { TbCurrencyNaira } from 'react-icons/tb';
 import { Types } from 'mongoose';
 import MobileServices from './Mobilepages/MobileServices.js';
 import MobileFooter from './Mobilepages/MobileFooter.js';
-import MobileJustForYou from './Mobilepages/MobileJustForYou.js';
+import Mobilejustyou from './Mobilepages/Mobilejustyou.js';
+
 
 
 
@@ -286,7 +287,8 @@ function Homebanner() {
         </div>
 
         <MobileServices />
-        <MobileJustForYou />
+        {/* <Mobilejustforyou /> */}
+        <Mobilejustyou/>
 
         {/* <Sider
           firstImage='duplex2.avif'
