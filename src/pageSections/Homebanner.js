@@ -297,7 +297,7 @@ function Homebanner() {
           thirdImage='flat7.jpeg'
         /> */}
       </div>
-      {/* <MobileFooter className='mobileFooterTag' /> */}
+      <MobileFooter className='mobileFooterTag' />
 
       <div className='desktopDetails'>
         <div className='homebannerImage'>
